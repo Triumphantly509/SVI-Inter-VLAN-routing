@@ -33,3 +33,13 @@
 <div>
   <img width="691" height="708" alt="image" src="https://github.com/user-attachments/assets/dac5ce22-670f-4c41-9690-99f9732f89fe" />
 </div>
+
+## Configuration of Intra Vlan SVI Routing
+<div>
+  <img width="913" height="573" alt="image" src="https://github.com/user-attachments/assets/d45e4c2e-0d58-4b7b-86cd-a4a35f949c84" />
+</div>
+
+## Result any PC from any Vlan can ping each other
+<div>
+  <img width="727" height="866" alt="image" src="https://github.com/user-attachments/assets/52b1bcb5-faf8-4653-b524-c7e4109e6592" />
+</div>
